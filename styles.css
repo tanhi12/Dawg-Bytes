@@ -1,0 +1,23 @@
+body {
+    background-color: powderblue;
+}
+
+.box {
+		    width: 50%;
+    margin: 0 auto;
+    border: 1px double rgb(255, 255, 255);
+    padding: 50px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

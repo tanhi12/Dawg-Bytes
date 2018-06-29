@@ -1,0 +1,4 @@
+ body { background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); font-family:Sans-serif;  font-size: 19px;}
+      h1 {text-align: center; color:#66ffff; font-weight: bolder; font-family:"Arial Black", Gadget, sans-serif;}
+	h2 {text-align: center; color:#66ffff; font-weight: bolder; font-family:"Arial Black", Gadget, sans-serif;}
+      p {text-indent: 20px; color:#ffffff; line-height: 25px; font-family:"Arial Black", Gadget, sans-serif;}
